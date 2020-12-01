@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-share-lock/redis-share-lock.iml" filepath="$PROJECT_DIR$/redis-share-lock/redis-share-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-share-lock-demo/redis-share-lock-demo.iml" filepath="$PROJECT_DIR$/redis-share-lock-demo/redis-share-lock-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redislockdemo.iml" filepath="$PROJECT_DIR$/.idea/redislockdemo.iml" />
+    </modules>
+  </component>
+</project>

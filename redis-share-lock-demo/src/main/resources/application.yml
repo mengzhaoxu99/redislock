@@ -1,0 +1,30 @@
+
+spring:
+  redis:
+    port:
+    host:
+    password:
+    database:
+#   如需细粒度控制redisson，请移步redisson.yml
+#  redisson:
+#    file: classpath:redisson.yml
+olading:
+  lock:
+    enable: true
+
+
+# common spring boot settings
+#spring:
+#  redis:
+#    database:
+#    host:
+#    port:
+#    password:
+#    ssl:
+#    timeout:
+#    cluster:
+#      nodes:
+#    sentinel:
+#      master:
+#      nodes:
+
